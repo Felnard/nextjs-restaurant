@@ -2,7 +2,7 @@
 
 export default function FoodCard({ id, name, servesCuisine, priceRange, mainPhotoSrc, location }) {
     const { street } = location
-    console.log(street)
+    // console.log(street)
     return (
         <div
             className="w-64 h-72 m-3 rounded overflow-hidden border cursor-pointer">

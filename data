@@ -4,3 +4,6 @@ priceRange
 mainPhotoSrc:
 
 DETAILS
+name
+aggregateRatings>thefork>ratingValue,reviewCount
+photos>src
